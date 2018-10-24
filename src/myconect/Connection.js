@@ -11,6 +11,8 @@ class Connection extends Component {
 
 {this.props.onChange}
 
+shlomo bad
+
             </div>
 
       )
